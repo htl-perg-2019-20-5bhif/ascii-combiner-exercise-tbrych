@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AsciiArtCombiner": {
+      "commandName": "Project",
+      "commandLineArgs": "brokenLength1.txt brokenLength2.txt"
+    }
+  }
+}

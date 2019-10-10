@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiArtCombiner", "AsciiArtCombiner.csproj", "{63A80DE6-FB5B-467D-B65B-66CD962624DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiCombinerLogic", "..\AsciiCombinerLogic\AsciiCombinerLogic.csproj", "{FB7F365A-FCFA-4A29-814A-4E99A695F0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A80DE6-FB5B-467D-B65B-66CD962624DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A80DE6-FB5B-467D-B65B-66CD962624DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A80DE6-FB5B-467D-B65B-66CD962624DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A80DE6-FB5B-467D-B65B-66CD962624DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7F365A-FCFA-4A29-814A-4E99A695F0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7F365A-FCFA-4A29-814A-4E99A695F0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7F365A-FCFA-4A29-814A-4E99A695F0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7F365A-FCFA-4A29-814A-4E99A695F0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28CE16A-7858-4A3D-B5FA-9350AD6D849E}
+	EndGlobalSection
+EndGlobal
